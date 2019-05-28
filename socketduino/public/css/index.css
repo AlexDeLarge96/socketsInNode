@@ -1,0 +1,24 @@
+button {
+    border-radius: 10px 10px 10px 10px;
+    height: 50px;
+    width: 120px;
+    font-weight: bold;
+    font-family: "Comic Sans MS";
+    outline: none;
+}
+
+.buttonOn:hover {
+    color: green;
+}
+
+.buttonOff:hover {
+    color: white;
+}
+
+.buttonOn {
+    background-color: greenyellow
+}
+
+.buttonOff {
+    background-color: red
+}

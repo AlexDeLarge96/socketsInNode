@@ -1,0 +1,29 @@
+button {
+    border-radius: 10px 10px 10px 10px;
+    height: 30px;
+    width: 80px;
+    outline: none;
+    background-image: linear-gradient(cyan, white);
+    font-weight: bold;
+    font-family: "Comic Sans MS";
+    margin-top: 20px;
+}
+
+input {
+    margin-top: 20px;
+    border-radius: 5px 5px 5px 5px;
+    outline: none;
+    height: 30px;
+    text-align: center;
+    font-family: "Comic Sans MS"
+}
+
+#chat {
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid black;
+    width: 300px;
+    height: 200px;
+    overflow-y: scroll;
+    word-wrap: break-word;
+}
